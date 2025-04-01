@@ -1,0 +1,5 @@
+송금보내요 body { background-color: black; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; font-family: Arial, sans-serif; } .container { background-color: #ffea00; width: 320px; border-radius: 10px; padding: 20px; text-align: center; } .header { font-size: 18px; font-weight: bold; } .content { background-color: white; margin-top: 10px; padding: 15px; border-radius: 10px; font-size: 16px; } .button { background-color: #f2f2f2; padding: 10px; border-radius: 5px; margin-top: 10px; display: inline-block; cursor: pointer; } .button:hover { background-color: #e0e0e0; } 
+송금보내요
+1,000,000원을 보냈어요.
+송금 받기 전까지 보낸 분은 내역 상세화면에서 취소할 수 있어요.
+송금 받기
